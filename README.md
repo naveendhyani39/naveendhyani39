@@ -18,9 +18,7 @@
 
 <div align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/naveendhyani1901/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  
 </div>
 </div>
 
@@ -33,7 +31,7 @@
 * 🌱 Currently focusing on building practical **Data Analytics projects** and strengthening my technical skills.
 * 💻 Familiar with **HTML and C Programming**.
 * 🚀 My goal is to start my career as a **Data Analyst** and continuously grow in the field of data.
-* 📫 How to reach me: <a href="mailto:[naveendhyani39@gmail.com](mailto:naveendhyani39@gmail.com)">[naveendhyani39@gmail.com](mailto:naveendhyani39@gmail.com)</a> | or connect with me on <a href="https://www.linkedin.com/in/naveendhyani1901/">My LinkedIn.</a>
+* 📫 How to reach me: <a href="mailto:[naveendhyani39@gmail.com](mailto:naveendhyani39@gmail.com)">[naveendhyani39@gmail.com](mailto:naveendhyani39@gmail.com)</a> </a>
 
 <br>
 <br>
